@@ -1,0 +1,10 @@
+/build/
+/build-local/
+/out/
+/.cache/
+/.idea/
+/.vscode/
+*.user
+*.swp
+*.swo
+compile_commands.json
